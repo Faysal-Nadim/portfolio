@@ -1,0 +1,148 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.firstSection{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.col-1{
+    width: 50%;
+    padding-top: 20px;
+    margin-left: 120px;
+}
+
+.col-1-header{
+    font-size: 40px;
+    font-weight: 700;
+    border-left: 5px solid orange;
+}
+
+h2{
+    padding-left: 10px;
+}
+
+.col-1-body{
+    font-size: 20px;
+    text-align: justify;
+}
+
+#text-color{
+    color: #254;
+}
+
+.button-1{
+    text-decoration: none;
+    background-image: linear-gradient(#225544, #3d996e);
+    padding: 10px 25px;
+    border-radius: 3px;
+    color: white;
+}
+
+.col-2{
+    width: 50%;
+    margin-left: 100px;
+}
+
+.firstSection-img{
+    height: 500px;
+    width: 400px;
+}
+
+.secondSection-body{
+    width: 90%;
+    display: flex;
+    text-align: justify;
+}
+.secondSection-header{
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.col-img{
+    height: 150px;
+    width: 150px;
+}
+
+.firstCol{
+    padding: 10px 20px;
+    width: 30%;
+    margin-left: 150px;
+    background-color: linen;
+    border-radius: 10px;
+}
+
+.secondCol{
+    padding: 10px 20px;
+    width: 30%;
+    margin-left: 80px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.thirdCol{
+    padding: 10px 20px;
+    width: 30%;
+    margin-left: 100px;
+    background-color: papayawhip;
+    border-radius: 10px;
+}
+
+.p-text{
+    padding: 0 10px;
+}
+
+.thirdSection{
+    margin-top: 100px;
+    display: flex;
+    width: 90%;
+}
+
+.leftCol{
+    margin-left: 150px;
+}
+
+.rightCol{
+    margin-left: 70px;
+}
+
+.third-img{
+    height: 400px;
+    width: 400px;
+}
+
+.third-header{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.third-p{
+    font-weight: 600;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.fourthSection{
+    margin-top: 100px;
+    display: flex;
+    width: 90%;
+    margin-bottom: 50px;
+}
+
+.footer{
+    height: 150px;
+    background-color: black;
+    margin-bottom: -17px;
+    text-align: center;
+    color: white;
+}
+
+.footer-head{
+    padding-top: 5px;
+    font-size: 30px;
+    font-weight: 500;
+}
